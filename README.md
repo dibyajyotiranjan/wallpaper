@@ -1,6 +1,6 @@
 # wall_paper
 
-A new Flutter project.
+
 
 ## Getting Started
 
